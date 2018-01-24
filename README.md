@@ -1,6 +1,6 @@
 Description:
 
-A URL shortener that converts a regular URL into its condensed format.
+A URL shortener that converts a regular URL into its condensed format, It also generates a random string of random letters as the query string. 
 
 ![alt tag](https://github.com/Petter123456/url_parser/blob/master/url_shortner.png
 )
