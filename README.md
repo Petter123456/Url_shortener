@@ -1,24 +1,11 @@
-# README
+Description:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A URL shortener that converts a regular URL into its condensed format.
 
-Things you may want to cover:
+![alt tag](https://github.com/Petter123456/url_parser/blob/master/url_shortner.png
+)
 
-* Ruby version
 
-* System dependencies
+CONTACT DETAILS:
+(0047) 46939362 · PETTER.FAGERLUND@GMAIL.COM· PETTER.FAGERLUND.COM
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
